@@ -1,2 +1,4 @@
 # 3dprints
-All files for 3d files 
+
+My 3D designs , some from scratch others from forking or getting from others
+
